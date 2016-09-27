@@ -1,9 +1,9 @@
 <html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	</head>
-	<body>
-		<button class="btn btn-danger">EXIT!</button>
-		<i class="glyphicon glyphicon-remove"></i>
-	</body>
+
+<head>
+	<link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+	<span class='glyphicon glyphicon-user'></span>
+</body>
 </html>
