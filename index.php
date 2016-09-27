@@ -3,4 +3,6 @@
 	for($x=10; $x>10; $x++){
 		echo "This is FUN";
 	}
+
+	include("home.php")
 ?>
